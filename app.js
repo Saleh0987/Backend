@@ -15,8 +15,20 @@ app.get("/", (req, res) => {
 
 app.get("/api/products", (req, res) => {
   const products = [
-    {id: 1, name: "Product 1", price: 10},
-    {id: 2, name: "Product 2", price: 20},
+    {
+      id: 1,
+      name: "Product 1",
+      price: 10,
+      description: "test test test test",
+      image: "https://shorturl.at/gbc3p",
+    },
+    {
+      id: 2,
+      name: "Product 2",
+      price: 20,
+      description: "test test test test",
+      image: "https://shorturl.at/C8CCO",
+    },
   ];
   res.json(products);
 });
