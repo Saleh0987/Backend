@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Sedans",
+    "description": "Comfortable and efficient vehicles for everyday use."
+  },
+  {
+    "id": 2,
+    "name": "SUVs",
+    "description": "Spacious vehicles with off-road capabilities."
+  },
+  {
+    "id": 3,
+    "name": "Coupes",
+    "description": "Stylish and sporty two-door cars."
+  },
+  {
+    "id": 4,
+    "name": "Convertibles",
+    "description": "Cars with a retractable roof for open-air driving."
+  },
+  {
+    "id": 5,
+    "name": "Hatchbacks",
+    "description": "Compact cars with versatile cargo space."
+  },
+  {
+    "id": 6,
+    "name": "Trucks",
+    "description": "Powerful vehicles designed for heavy loads and towing."
+  },
+  {
+    "id": 7,
+    "name": "Minivans",
+    "description": "Family-friendly vehicles with ample seating and storage."
+  },
+  {
+    "id": 8,
+    "name": "Electric",
+    "description": "Vehicles powered by electricity for eco-friendly driving."
+  },
+  {
+    "id": 9,
+    "name": "Hybrids",
+    "description": "Cars that use both gasoline and electric power."
+  },
+  {
+    "id": 10,
+    "name": "Luxury",
+    "description": "High-end vehicles with premium features and performance."
+  }
+]

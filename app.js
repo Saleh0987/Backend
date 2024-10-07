@@ -6,6 +6,8 @@ const port = 5080;
 
 // Import products
 const products = require("./data/products.json");
+const categories = require("./data/categories.json");
+
 
 // Enable CORS for all origins
 app.use(cors());
@@ -17,6 +19,10 @@ app.get("/", (req, res) => {
 
 app.get("/api/products", (req, res) => {
   res.json(products);
+});
+
+app.get("/api/categories", (req, res) => {
+  res.json(categories);
 });
 
 app.listen(port, () => {
