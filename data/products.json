@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Toyota Corolla",
+    "price": 20000,
+    "image": "https://source.unsplash.com/aX_ljOOyWJY/800x600",
+    "smallDesc": "Reliable compact car with great fuel efficiency."
+  },
+  {
+    "id": 2,
+    "title": "Honda Civic",
+    "price": 22000,
+    "image": "https://source.unsplash.com/NbZsi5bICns/800x600",
+    "smallDesc": "Sporty sedan with a comfortable interior and advanced features."
+  },
+  {
+    "id": 3,
+    "title": "Ford Mustang",
+    "price": 35000,
+    "image": "https://source.unsplash.com/1C9WLpAv1SY/800x600",
+    "smallDesc": "Iconic muscle car with powerful performance and style."
+  },
+  {
+    "id": 4,
+    "title": "Chevrolet Camaro",
+    "price": 37000,
+    "image": "https://source.unsplash.com/SEsUZWGL8KU/800x600",
+    "smallDesc": "Aggressive design and thrilling performance."
+  },
+  {
+    "id": 5,
+    "title": "BMW 3 Series",
+    "price": 41000,
+    "image": "https://source.unsplash.com/T9Vfoa6HWu8/800x600",
+    "smallDesc": "Luxurious sedan with sporty handling and premium features."
+  },
+  {
+    "id": 6,
+    "title": "Mercedes-Benz C-Class",
+    "price": 43000,
+    "image": "https://source.unsplash.com/V6wEjJ2FTSg/800x600",
+    "smallDesc": "Sophisticated design and cutting-edge technology."
+  },
+  {
+    "id": 7,
+    "title": "Audi A4",
+    "price": 42000,
+    "image": "https://source.unsplash.com/l9WyJbkf9RU/800x600",
+    "smallDesc": "Premium sedan with advanced tech and impressive performance."
+  },
+  {
+    "id": 8,
+    "title": "Tesla Model 3",
+    "price": 45000,
+    "image": "https://source.unsplash.com/7F65HDP0-E0/800x600",
+    "smallDesc": "Electric car with long range and autopilot capabilities."
+  },
+  {
+    "id": 9,
+    "title": "Nissan Altima",
+    "price": 25000,
+    "image": "https://source.unsplash.com/rf6ywHVkrlY/800x600",
+    "smallDesc": "Midsize sedan with comfortable interior and efficient engine."
+  },
+  {
+    "id": 10,
+    "title": "Hyundai Elantra",
+    "price": 20000,
+    "image": "https://source.unsplash.com/BnNCCG02D7Y/800x600",
+    "smallDesc": "Compact car with modern design and affordable price."
+  },
+  {
+    "id": 11,
+    "title": "Kia Optima",
+    "price": 24000,
+    "image": "https://source.unsplash.com/kJtBDBh0uFA/800x600",
+    "smallDesc": "Stylish sedan with a roomy interior and good fuel economy."
+  },
+  {
+    "id": 12,
+    "title": "Volkswagen Jetta",
+    "price": 23000,
+    "image": "https://source.unsplash.com/sI4YQr57_4I/800x600",
+    "smallDesc": "German engineering with a refined design."
+  },
+  {
+    "id": 13,
+    "title": "Subaru Impreza",
+    "price": 21000,
+    "image": "https://source.unsplash.com/3e2p7Tf1kKA/800x600",
+    "smallDesc": "All-wheel-drive compact with great handling."
+  },
+  {
+    "id": 14,
+    "title": "Mazda 3",
+    "price": 22000,
+    "image": "https://source.unsplash.com/r8jh2fP9Fxo/800x600",
+    "smallDesc": "Compact car with sporty driving dynamics and stylish looks."
+  },
+  {
+    "id": 15,
+    "title": "Acura TLX",
+    "price": 38000,
+    "image": "https://source.unsplash.com/X3E7e6kz_kI/800x600",
+    "smallDesc": "Luxury sedan with advanced safety features and premium interior."
+  },
+  {
+    "id": 16,
+    "title": "Infiniti Q50",
+    "price": 40000,
+    "image": "https://source.unsplash.com/WYfZ5ktJtAE/800x600",
+    "smallDesc": "Performance-oriented luxury sedan with powerful engine options."
+  },
+  {
+    "id": 17,
+    "title": "Volvo S60",
+    "price": 42000,
+    "image": "https://source.unsplash.com/8CxL8kfyCWk/800x600",
+    "smallDesc": "Scandinavian design with advanced safety and comfort."
+  },
+  {
+    "id": 18,
+    "title": "Lexus IS",
+    "price": 43000,
+    "image": "https://source.unsplash.com/yxZ7R4WeTYs/800x600",
+    "smallDesc": "Reliable luxury sedan with refined styling and features."
+  },
+  {
+    "id": 19,
+    "title": "Alfa Romeo Giulia",
+    "price": 44000,
+    "image": "https://source.unsplash.com/fEyTKO_wBd0/800x600",
+    "smallDesc": "Italian sports sedan with distinctive styling and performance."
+  },
+  {
+    "id": 20,
+    "title": "Cadillac CT5",
+    "price": 45000,
+    "image": "https://source.unsplash.com/4C-0gwgR_Qc/800x600",
+    "smallDesc": "American luxury sedan with a smooth ride and powerful engine."
+  }
+]
