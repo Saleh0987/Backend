@@ -1,52 +1,1655 @@
-[
-  {
-    "id": 1,
-    "name": "Sedans",
-    "description": "Comfortable and efficient vehicles for everyday use."
-  },
-  {
-    "id": 2,
-    "name": "SUVs",
-    "description": "Spacious vehicles with off-road capabilities."
-  },
-  {
-    "id": 3,
-    "name": "Coupes",
-    "description": "Stylish and sporty two-door cars."
-  },
-  {
-    "id": 4,
-    "name": "Convertibles",
-    "description": "Cars with a retractable roof for open-air driving."
-  },
-  {
-    "id": 5,
-    "name": "Hatchbacks",
-    "description": "Compact cars with versatile cargo space."
-  },
-  {
-    "id": 6,
-    "name": "Trucks",
-    "description": "Powerful vehicles designed for heavy loads and towing."
-  },
-  {
-    "id": 7,
-    "name": "Minivans",
-    "description": "Family-friendly vehicles with ample seating and storage."
-  },
-  {
-    "id": 8,
-    "name": "Electric",
-    "description": "Vehicles powered by electricity for eco-friendly driving."
-  },
-  {
-    "id": 9,
-    "name": "Hybrids",
-    "description": "Cars that use both gasoline and electric power."
-  },
-  {
-    "id": 10,
-    "name": "Luxury",
-    "description": "High-end vehicles with premium features and performance."
-  }
-]
+{
+  
+"categories":{
+    "Mercedes-Benz": [
+        {
+            "id": 1,
+            "Name": "Mercedes-Benz S-Class",
+            "Price": "$112,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury sedan with cutting-edge technology and comfort.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 2,
+            "Name": "Mercedes-Benz E-Class",
+            "Price": "$57,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize luxury sedan with advanced safety features.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 3,
+            "Name": "Mercedes-Benz GLE",
+            "Price": "$67,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury SUV with a spacious interior and strong performance.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 4,
+            "Name": "Mercedes-Benz C-Class",
+            "Price": "$44,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact luxury sedan with a refined interior.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 5,
+            "Name": "Mercedes-Benz GLC",
+            "Price": "$53,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact luxury SUV with a blend of performance and comfort.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 6,
+            "Name": "Mercedes-Benz A-Class",
+            "Price": "$35,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Entry-level luxury car with sporty handling.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 7,
+            "Name": "Mercedes-Benz CLA",
+            "Price": "$40,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Stylish compact sedan with a sporty profile.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 8,
+            "Name": "Mercedes-Benz G-Class",
+            "Price": "$140,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Iconic luxury SUV with impressive off-road capabilities.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 9,
+            "Name": "Mercedes-Benz GLS",
+            "Price": "$85,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Full-size luxury SUV with three rows of seating.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 10,
+            "Name": "Mercedes-Benz EQS",
+            "Price": "$102,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric luxury sedan with cutting-edge tech.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 11,
+            "Name": "Mercedes-Benz SL",
+            "Price": "$122,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury convertible with performance and style.",
+            "Company": "Mercedes-Benz"
+        },
+        {
+            "id": 12,
+            "Name": "Mercedes-Benz AMG GT",
+            "Price": "$142,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "High-performance sports car with a powerful engine.",
+            "Company": "Mercedes-Benz"
+        }
+    ],
+    "Toyota": [
+        {
+            "id": 13,
+            "Name": "Toyota Camry",
+            "Price": "$25,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "A reliable midsize sedan known for its fuel efficiency and comfort.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 14,
+            "Name": "Toyota Corolla",
+            "Price": "$22,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact car with great fuel economy and advanced safety features.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 15,
+            "Name": "Toyota RAV4",
+            "Price": "$28,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Popular compact SUV offering ample cargo space and versatility.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 16,
+            "Name": "Toyota Highlander",
+            "Price": "$35,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize SUV with three rows of seating and strong safety ratings.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 17,
+            "Name": "Toyota Tacoma",
+            "Price": "$27,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "A midsize pickup known for its off-road capability.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 18,
+            "Name": "Toyota Tundra",
+            "Price": "$39,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Full-size truck with impressive towing capacity and comfort.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 19,
+            "Name": "Toyota 4Runner",
+            "Price": "$38,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Rugged SUV with strong off-road capabilities.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 20,
+            "Name": "Toyota Sienna",
+            "Price": "$35,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Hybrid minivan with spacious interior and family-friendly features.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 21,
+            "Name": "Toyota C-HR",
+            "Price": "$25,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact crossover with distinctive styling and nimble handling.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 22,
+            "Name": "Toyota Avalon",
+            "Price": "$36,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Full-size sedan offering luxury features and a smooth ride.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 23,
+            "Name": "Toyota Mirai",
+            "Price": "$50,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Hydrogen fuel cell vehicle with zero emissions and advanced technology.",
+            "Company": "Toyota"
+        },
+        {
+            "id": 24,
+            "Name": "Toyota Prius",
+            "Price": "$28,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Iconic hybrid car known for its excellent fuel efficiency.",
+            "Company": "Toyota"
+        }
+    ],
+    "BMW": [
+        {
+            "id": 25,
+            "Name": "BMW 3 Series",
+            "Price": "$42,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact executive car with dynamic handling and a luxurious interior.",
+            "Company": "BMW"
+        },
+        {
+            "id": 26,
+            "Name": "BMW 5 Series",
+            "Price": "$55,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize luxury sedan that blends performance and comfort.",
+            "Company": "BMW"
+        },
+        {
+            "id": 27,
+            "Name": "BMW X5",
+            "Price": "$65,000",
+            "Model": "2022",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury SUV with advanced technology and spacious interior.",
+            "Company": "BMW"
+        },
+        {
+            "id": 28,
+            "Name": "BMW Z4",
+            "Price": "$52,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Stylish roadster with sharp handling and a powerful engine.",
+            "Company": "BMW"
+        },
+        {
+            "id": 29,
+            "Name": "BMW M3",
+            "Price": "$74,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "High-performance version of the 3 Series with sport-tuned features.",
+            "Company": "BMW"
+        },
+        {
+            "id": 30,
+            "Name": "BMW X3",
+            "Price": "$48,000",
+            "Model": "2022",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact luxury SUV with a versatile interior and sporty dynamics.",
+            "Company": "BMW"
+        },
+        {
+            "id": 31,
+            "Name": "BMW 7 Series",
+            "Price": "$95,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Full-size luxury sedan with cutting-edge technology and opulence.",
+            "Company": "BMW"
+        },
+        {
+            "id": 32,
+            "Name": "BMW X7",
+            "Price": "$77,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Spacious luxury SUV with three rows and advanced features.",
+            "Company": "BMW"
+        },
+        {
+            "id": 33,
+            "Name": "BMW i4",
+            "Price": "$56,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric luxury sedan with impressive performance.",
+            "Company": "BMW"
+        },
+        {
+            "id": 34,
+            "Name": "BMW iX",
+            "Price": "$84,000",
+            "Model": "2022",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Electric SUV with cutting-edge technology and spacious interior.",
+            "Company": "BMW"
+        },
+        {
+            "id": 35,
+            "Name": "BMW 2 Series",
+            "Price": "$39,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact luxury coupe with sporty handling and modern design.",
+            "Company": "BMW"
+        },
+        {
+            "id": 36,
+            "Name": "BMW M5",
+            "Price": "$105,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "High-performance sedan with powerful engines and luxury features.",
+            "Company": "BMW"
+        }
+    ],
+    "Tesla": [
+        {
+            "id": 37,
+            "Name": "Tesla Model S",
+            "Price": "$94,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury all-electric sedan with exceptional range and performance.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 38,
+            "Name": "Tesla Model 3",
+            "Price": "$40,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Affordable electric sedan with impressive acceleration and range.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 39,
+            "Name": "Tesla Model X",
+            "Price": "$102,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury SUV with falcon-wing doors and spacious seating.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 40,
+            "Name": "Tesla Model Y",
+            "Price": "$54,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with great cargo space and advanced technology.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 41,
+            "Name": "Tesla Roadster",
+            "Price": "$200,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "High-performance sports car with impressive speed and range.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 42,
+            "Name": "Tesla Cybertruck",
+            "Price": "$60,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Futuristic electric pickup truck with rugged design and utility.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 43,
+            "Name": "Tesla Model S Plaid",
+            "Price": "$114,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Ultimate performance version of Model S with incredible acceleration.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 44,
+            "Name": "Tesla Model 3 Performance",
+            "Price": "$57,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sporty version of Model 3 with enhanced performance features.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 45,
+            "Name": "Tesla Model Y Performance",
+            "Price": "$60,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sporty version of Model Y with all-wheel drive and impressive speed.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 46,
+            "Name": "Tesla Model X Plaid",
+            "Price": "$138,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Performance variant of Model X with exceptional power and range.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 47,
+            "Name": "Tesla Semi",
+            "Price": "$150,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric semi truck designed for freight transport with low operating costs.",
+            "Company": "Tesla"
+        },
+        {
+            "id": 48,
+            "Name": "Tesla Model Y Long Range",
+            "Price": "$57,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Long-range version of Model Y with excellent efficiency.",
+            "Company": "Tesla"
+        }
+    ],
+     "Audi": [
+        {
+            "id": 49,
+            "Name": "Audi A3",
+            "Price": "$36,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact luxury sedan with sporty handling and advanced tech.",
+            "Company": "Audi"
+        },
+        {
+            "id": 50,
+            "Name": "Audi A4",
+            "Price": "$43,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize luxury sedan known for its performance and comfort.",
+            "Company": "Audi"
+        },
+        {
+            "id": 51,
+            "Name": "Audi A6",
+            "Price": "$59,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury sedan offering a blend of performance and technology.",
+            "Company": "Audi"
+        },
+        {
+            "id": 52,
+            "Name": "Audi Q3",
+            "Price": "$38,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact luxury SUV with a comfortable ride and high-tech features.",
+            "Company": "Audi"
+        },
+        {
+            "id": 53,
+            "Name": "Audi Q5",
+            "Price": "$53,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Versatile midsize SUV with a spacious interior and smooth handling.",
+            "Company": "Audi"
+        },
+        {
+            "id": 54,
+            "Name": "Audi Q7",
+            "Price": "$64,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Three-row luxury SUV with advanced tech and premium materials.",
+            "Company": "Audi"
+        },
+        {
+            "id": 55,
+            "Name": "Audi A8",
+            "Price": "$88,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Flagship luxury sedan with high-end features and comfort.",
+            "Company": "Audi"
+        },
+        {
+            "id": 56,
+            "Name": "Audi e-tron",
+            "Price": "$69,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric SUV with impressive performance and technology.",
+            "Company": "Audi"
+        },
+        {
+            "id": 57,
+            "Name": "Audi R8",
+            "Price": "$142,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "High-performance sports car with a striking design and power.",
+            "Company": "Audi"
+        },
+        {
+            "id": 58,
+            "Name": "Audi Q8",
+            "Price": "$72,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury SUV with bold styling and advanced technology.",
+            "Company": "Audi"
+        },
+        {
+            "id": 59,
+            "Name": "Audi A5",
+            "Price": "$50,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Stylish coupe with a blend of performance and elegance.",
+            "Company": "Audi"
+        },
+        {
+            "id": 60,
+            "Name": "Audi Q4 e-tron",
+            "Price": "$45,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact all-electric SUV with modern features and style.",
+            "Company": "Audi"
+        }
+    ],
+    "Porsche": [
+        {
+            "id": 61,
+            "Name": "Porsche 911",
+            "Price": "$106,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Iconic sports car known for its performance and handling.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 62,
+            "Name": "Porsche Cayenne",
+            "Price": "$75,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury SUV combining sportiness with practicality.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 63,
+            "Name": "Porsche Macan",
+            "Price": "$54,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact luxury SUV with agile handling and sporty design.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 64,
+            "Name": "Porsche Taycan",
+            "Price": "$86,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric sports sedan with impressive acceleration.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 65,
+            "Name": "Porsche 718 Cayman",
+            "Price": "$67,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Mid-engine coupe with exceptional handling and performance.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 66,
+            "Name": "Porsche 718 Boxster",
+            "Price": "$73,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Stylish convertible with responsive handling and luxury features.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 67,
+            "Name": "Porsche Panamera",
+            "Price": "$92,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury sedan with a blend of performance and comfort.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 68,
+            "Name": "Porsche Cayenne Coupe",
+            "Price": "$85,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sporty SUV with a sloping roofline and powerful performance.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 69,
+            "Name": "Porsche 911 Turbo",
+            "Price": "$180,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "High-performance version of the iconic 911 with enhanced features.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 70,
+            "Name": "Porsche Taycan 4S",
+            "Price": "$105,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sporty all-electric sedan with impressive range and acceleration.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 71,
+            "Name": "Porsche 911 GT3",
+            "Price": "$166,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Track-focused sports car with incredible handling and performance.",
+            "Company": "Porsche"
+        },
+        {
+            "id": 72,
+            "Name": "Porsche 911 Carrera",
+            "Price": "$102,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Entry-level version of the 911 with exceptional performance.",
+            "Company": "Porsche"
+        }
+    ],
+    "Ford": [
+        {
+            "id": 73,
+            "Name": "Ford F-150",
+            "Price": "$32,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Best-selling full-size pickup truck known for its capability.",
+            "Company": "Ford"
+        },
+        {
+            "id": 74,
+            "Name": "Ford Mustang",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Iconic American muscle car with powerful performance.",
+            "Company": "Ford"
+        },
+        {
+            "id": 75,
+            "Name": "Ford Explorer",
+            "Price": "$40,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize SUV with three rows of seating and advanced technology.",
+            "Company": "Ford"
+        },
+        {
+            "id": 76,
+            "Name": "Ford Escape",
+            "Price": "$29,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with versatile cargo space and fuel efficiency.",
+            "Company": "Ford"
+        },
+        {
+            "id": 77,
+            "Name": "Ford Bronco",
+            "Price": "$42,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Rugged SUV designed for off-road adventures.",
+            "Company": "Ford"
+        },
+        {
+            "id": 78,
+            "Name": "Ford Ranger",
+            "Price": "$28,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize pickup truck offering strong performance and versatility.",
+            "Company": "Ford"
+        },
+        {
+            "id": 79,
+            "Name": "Ford Edge",
+            "Price": "$38,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Stylish midsize SUV with ample passenger space and tech features.",
+            "Company": "Ford"
+        },
+        {
+            "id": 80,
+            "Name": "Ford Mustang Mach-E",
+            "Price": "$44,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric SUV with sporty performance and range.",
+            "Company": "Ford"
+        },
+        {
+            "id": 81,
+            "Name": "Ford Super Duty",
+            "Price": "$45,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Heavy-duty trucks designed for tough jobs and towing.",
+            "Company": "Ford"
+        },
+        {
+            "id": 82,
+            "Name": "Ford Fiesta",
+            "Price": "$17,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact car known for its fun-to-drive nature and efficiency.",
+            "Company": "Ford"
+        },
+        {
+            "id": 83,
+            "Name": "Ford Explorer Sport Trac",
+            "Price": "$35,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sporty SUV with pickup capabilities.",
+            "Company": "Ford"
+        },
+        {
+            "id": 84,
+            "Name": "Ford Transit",
+            "Price": "$35,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Versatile van for commercial and personal use.",
+            "Company": "Ford"
+        }
+    ],
+     "Honda": [
+        {
+            "id": 85,
+            "Name": "Honda Accord",
+            "Price": "$28,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize sedan known for its reliability and spacious interior.",
+            "Company": "Honda"
+        },
+        {
+            "id": 86,
+            "Name": "Honda Civic",
+            "Price": "$25,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact car with sporty handling and advanced safety features.",
+            "Company": "Honda"
+        },
+        {
+            "id": 87,
+            "Name": "Honda CR-V",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with ample cargo space and comfort.",
+            "Company": "Honda"
+        },
+        {
+            "id": 88,
+            "Name": "Honda HR-V",
+            "Price": "$24,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Versatile subcompact SUV with flexible seating options.",
+            "Company": "Honda"
+        },
+        {
+            "id": 89,
+            "Name": "Honda Odyssey",
+            "Price": "$40,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Family-friendly minivan with a spacious interior and advanced tech.",
+            "Company": "Honda"
+        },
+        {
+            "id": 90,
+            "Name": "Honda Pilot",
+            "Price": "$38,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize SUV with three rows of seating and strong safety ratings.",
+            "Company": "Honda"
+        },
+        {
+            "id": 91,
+            "Name": "Honda Ridgeline",
+            "Price": "$40,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Unique midsize pickup with a smooth ride and innovative features.",
+            "Company": "Honda"
+        },
+        {
+            "id": 92,
+            "Name": "Honda Fit",
+            "Price": "$20,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Subcompact car with excellent fuel efficiency and cargo space.",
+            "Company": "Honda"
+        },
+        {
+            "id": 93,
+            "Name": "Honda Insight",
+            "Price": "$25,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Hybrid sedan with a focus on efficiency and technology.",
+            "Company": "Honda"
+        },
+        {
+            "id": 94,
+            "Name": "Honda Passport",
+            "Price": "$38,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize SUV designed for adventure with rugged capabilities.",
+            "Company": "Honda"
+        },
+        {
+            "id": 95,
+            "Name": "Honda Civic Si",
+            "Price": "$29,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sporty version of the Civic with enhanced performance.",
+            "Company": "Honda"
+        },
+        {
+            "id": 96,
+            "Name": "Honda Accord Hybrid",
+            "Price": "$32,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Hybrid variant of the Accord with excellent fuel efficiency.",
+            "Company": "Honda"
+        }
+    ],
+    "Hyundai": [
+        {
+            "id": 97,
+            "Name": "Hyundai Sonata",
+            "Price": "$27,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Stylish midsize sedan with advanced safety features and tech.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 98,
+            "Name": "Hyundai Elantra",
+            "Price": "$24,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact sedan known for its fuel efficiency and reliability.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 99,
+            "Name": "Hyundai Tucson",
+            "Price": "$31,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with modern design and versatile cargo space.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 100,
+            "Name": "Hyundai Santa Fe",
+            "Price": "$34,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize SUV with spacious interior and robust features.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 101,
+            "Name": "Hyundai Palisade",
+            "Price": "$50,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Three-row SUV offering luxury and advanced technology.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 102,
+            "Name": "Hyundai Kona",
+            "Price": "$26,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Subcompact SUV with a sporty design and tech features.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 103,
+            "Name": "Hyundai Venue",
+            "Price": "$19,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Affordable subcompact SUV with a feature-rich interior.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 104,
+            "Name": "Hyundai Ioniq 5",
+            "Price": "$45,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric crossover with impressive range and tech.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 105,
+            "Name": "Hyundai Accent",
+            "Price": "$17,500",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact car with great fuel economy and value.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 106,
+            "Name": "Hyundai Sonata Hybrid",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Hybrid version of the Sonata with excellent fuel efficiency.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 107,
+            "Name": "Hyundai Veloster",
+            "Price": "$28,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Unique sporty hatchback with a distinctive three-door design.",
+            "Company": "Hyundai"
+        },
+        {
+            "id": 108,
+            "Name": "Hyundai Santa Cruz",
+            "Price": "$38,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sport adventure vehicle combining SUV comfort with truck utility.",
+            "Company": "Hyundai"
+        }
+    ],
+    "Volkswagen": [
+        {
+            "id": 109,
+            "Name": "Volkswagen Jetta",
+            "Price": "$24,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact sedan offering a balance of performance and comfort.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 110,
+            "Name": "Volkswagen Passat",
+            "Price": "$27,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize sedan known for its spacious interior and safety features.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 111,
+            "Name": "Volkswagen Golf",
+            "Price": "$28,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Versatile hatchback with sporty performance and practicality.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 112,
+            "Name": "Volkswagen Tiguan",
+            "Price": "$32,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with a comfortable ride and advanced technology.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 113,
+            "Name": "Volkswagen Atlas",
+            "Price": "$36,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Three-row SUV with ample space and family-friendly features.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 114,
+            "Name": "Volkswagen ID.4",
+            "Price": "$40,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric SUV with modern design and technology.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 115,
+            "Name": "Volkswagen Arteon",
+            "Price": "$43,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Stylish fastback with luxury features and powerful engine options.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 116,
+            "Name": "Volkswagen Beetle",
+            "Price": "$25,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Iconic compact car known for its unique design and fun driving experience.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 117,
+            "Name": "Volkswagen T-Roc",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with sporty looks and engaging performance.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 118,
+            "Name": "Volkswagen Touareg",
+            "Price": "$55,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxurious midsize SUV with off-road capabilities and high-end features.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 119,
+            "Name": "Volkswagen e-Golf",
+            "Price": "$30,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Electric version of the Golf, offering efficiency and practicality.",
+            "Company": "Volkswagen"
+        },
+        {
+            "id": 120,
+            "Name": "Volkswagen Scirocco",
+            "Price": "$35,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sporty hatchback with sleek design and responsive handling.",
+            "Company": "Volkswagen"
+        }
+    ],
+    "Nissan": [
+        {
+            "id": 121,
+            "Name": "Nissan Altima",
+            "Price": "$27,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize sedan with a stylish design and advanced technology.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 122,
+            "Name": "Nissan Sentra",
+            "Price": "$20,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact sedan known for its fuel efficiency and value.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 123,
+            "Name": "Nissan Maxima",
+            "Price": "$38,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Full-size sedan offering luxury features and performance.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 124,
+            "Name": "Nissan Rogue",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with spacious interior and versatile cargo space.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 125,
+            "Name": "Nissan Murano",
+            "Price": "$38,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize SUV with a comfortable ride and upscale features.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 126,
+            "Name": "Nissan Pathfinder",
+            "Price": "$37,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Three-row SUV designed for family adventures and comfort.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 127,
+            "Name": "Nissan Juke",
+            "Price": "$24,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact crossover with a distinctive design and sporty performance.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 128,
+            "Name": "Nissan Titan",
+            "Price": "$45,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Full-size pickup truck with robust towing capabilities.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 129,
+            "Name": "Nissan Frontier",
+            "Price": "$28,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize pickup with off-road capabilities and modern features.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 130,
+            "Name": "Nissan Leaf",
+            "Price": "$29,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric hatchback with impressive range and eco-friendly design.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 131,
+            "Name": "Nissan 370Z",
+            "Price": "$41,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sports car with a powerful engine and agile handling.",
+            "Company": "Nissan"
+        },
+        {
+            "id": 132,
+            "Name": "Nissan Armada",
+            "Price": "$68,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Full-size SUV offering luxury features and off-road capability.",
+            "Company": "Nissan"
+        }
+    ],
+    "Subaru": [
+        {
+            "id": 133,
+            "Name": "Subaru Outback",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Versatile wagon with all-wheel drive and rugged capability.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 134,
+            "Name": "Subaru Forester",
+            "Price": "$28,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with spacious interior and advanced safety features.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 135,
+            "Name": "Subaru Ascent",
+            "Price": "$37,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Three-row SUV designed for families with ample space.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 136,
+            "Name": "Subaru Crosstrek",
+            "Price": "$25,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with off-road capabilities and efficient fuel economy.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 137,
+            "Name": "Subaru Legacy",
+            "Price": "$27,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize sedan known for its safety and all-wheel-drive capability.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 138,
+            "Name": "Subaru WRX",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sporty compact car with turbocharged performance and rally heritage.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 139,
+            "Name": "Subaru BRZ",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Lightweight sports coupe with exceptional handling and fun to drive.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 140,
+            "Name": "Subaru Tribeca",
+            "Price": "$40,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Full-size SUV with comfortable seating and advanced safety features.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 141,
+            "Name": "Subaru Baja",
+            "Price": "$35,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Unique compact pickup truck with car-like handling.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 142,
+            "Name": "Subaru Solterra",
+            "Price": "$45,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric SUV offering AWD and modern tech.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 143,
+            "Name": "Subaru SVX",
+            "Price": "$30,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Unique coupe with distinct styling and a focus on performance.",
+            "Company": "Subaru"
+        },
+        {
+            "id": 144,
+            "Name": "Subaru WRX STI",
+            "Price": "$40,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "High-performance version of the WRX with enhanced power and handling.",
+            "Company": "Subaru"
+        }
+    ],
+    "Land Rover": [
+        {
+            "id": 145,
+            "Name": "Land Rover Range Rover",
+            "Price": "$104,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury SUV with exceptional off-road capability and opulent interior.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 146,
+            "Name": "Land Rover Discovery",
+            "Price": "$63,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Spacious SUV designed for families with advanced technology.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 147,
+            "Name": "Land Rover Defender",
+            "Price": "$50,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Rugged SUV built for off-road adventures with modern features.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 148,
+            "Name": "Land Rover Range Rover Sport",
+            "Price": "$78,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Sporty SUV with powerful performance and luxurious amenities.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 149,
+            "Name": "Land Rover Range Rover Velar",
+            "Price": "$62,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Stylish SUV with a sleek design and advanced technology.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 150,
+            "Name": "Land Rover Discovery Sport",
+            "Price": "$43,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV with versatility and modern safety features.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 151,
+            "Name": "Land Rover Freelander",
+            "Price": "$38,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact SUV known for its off-road capability and comfort.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 152,
+            "Name": "Land Rover Range Rover Evoque",
+            "Price": "$43,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury compact SUV with a dynamic design and efficient performance.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 153,
+            "Name": "Land Rover Series I",
+            "Price": "$40,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Classic off-road vehicle with timeless design and capability.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 154,
+            "Name": "Land Rover Range Rover SVAutobiography",
+            "Price": "$200,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Ultra-luxury SUV with bespoke options and unparalleled comfort.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 155,
+            "Name": "Land Rover Defender 90",
+            "Price": "$55,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Short-wheelbase version of the Defender, perfect for city and off-road.",
+            "Company": "Land Rover"
+        },
+        {
+            "id": 156,
+            "Name": "Land Rover Defender 110",
+            "Price": "$58,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Longer version of the Defender with extra passenger space.",
+            "Company": "Land Rover"
+        }
+    ],
+    "Jaguar": [
+        {
+            "id": 157,
+            "Name": "Jaguar F-Type",
+            "Price": "$73,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Luxury sports car with stunning design and exhilarating performance.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 158,
+            "Name": "Jaguar XF",
+            "Price": "$58,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Midsize luxury sedan combining performance and elegance.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 159,
+            "Name": "Jaguar XE",
+            "Price": "$43,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact executive car with dynamic handling and style.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 160,
+            "Name": "Jaguar I-PACE",
+            "Price": "$70,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric SUV combining performance with sustainable technology.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 161,
+            "Name": "Jaguar F-PACE",
+            "Price": "$66,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Performance SUV that balances luxury and practicality.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 162,
+            "Name": "Jaguar XK",
+            "Price": "$90,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Iconic grand tourer with powerful engines and a luxurious interior.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 163,
+            "Name": "Jaguar E-PACE",
+            "Price": "$49,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact luxury SUV with sporty dynamics and modern technology.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 164,
+            "Name": "Jaguar XJ",
+            "Price": "$90,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Full-size luxury sedan known for its elegance and performance.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 165,
+            "Name": "Jaguar XKR-S",
+            "Price": "$110,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "High-performance version of the XK with enhanced styling and power.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 166,
+            "Name": "Jaguar C-X75",
+            "Price": "$1,000,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Limited production supercar showcasing cutting-edge technology.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 167,
+            "Name": "Jaguar Mark II",
+            "Price": "$40,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Classic British saloon known for its style and performance.",
+            "Company": "Jaguar"
+        },
+        {
+            "id": 168,
+            "Name": "Jaguar F-PACE SVR",
+            "Price": "$85,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "High-performance variant of the F-PACE, combining luxury with speed.",
+            "Company": "Jaguar"
+        }
+    ],
+    "Fiat": [
+        {
+            "id": 169,
+            "Name": "Fiat 500",
+            "Price": "$25,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Stylish city car known for its compact size and fuel efficiency.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 170,
+            "Name": "Fiat Panda",
+            "Price": "$22,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Versatile hatchback with a spacious interior and practical features.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 171,
+            "Name": "Fiat 124 Spider",
+            "Price": "$28,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Classic roadster with modern performance and Italian flair.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 172,
+            "Name": "Fiat Tipo",
+            "Price": "$20,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact car offering practicality and a comfortable ride.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 173,
+            "Name": "Fiat 500X",
+            "Price": "$27,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact crossover combining iconic design with modern features.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 174,
+            "Name": "Fiat Doblo",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Practical van with plenty of space for passengers and cargo.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 175,
+            "Name": "Fiat Fiorino",
+            "Price": "$25,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Compact commercial vehicle ideal for urban deliveries.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 176,
+            "Name": "Fiat 500L",
+            "Price": "$26,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Spacious version of the 500, offering family-friendly features.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 177,
+            "Name": "Fiat Bravo",
+            "Price": "$24,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Hatchback with stylish design and efficient engines.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 178,
+            "Name": "Fiat Punto",
+            "Price": "$21,000",
+            "Model": "2023",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Small hatchback known for its practicality and fun driving experience.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 179,
+            "Name": "Fiat 500e",
+            "Price": "$30,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "All-electric version of the iconic Fiat 500, offering zero emissions.",
+            "Company": "Fiat"
+        },
+        {
+            "id": 180,
+            "Name": "Fiat Scudo",
+            "Price": "$32,000",
+            "Model": "2024",
+            "Picture": "https://via.placeholder.com/150",
+            "Details": "Medium-sized van with flexible cargo space and comfort.",
+            "Company": "Fiat"
+        }
+    ]
+}
+}
