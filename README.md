@@ -1,5 +1,6 @@
-#API
-FOR PRODUCTS => https://backend-end.vercel.app/api/products
-FOR CATEGORIES => https://backend-end.vercel.app/api/categories
+# API
 
-###Wait for more updates
+- FOR PRODUCTS => https://backend-end.vercel.app/api/products
+- FOR CATEGORIES => https://backend-end.vercel.app/api/categories
+
+### Wait for more updates
