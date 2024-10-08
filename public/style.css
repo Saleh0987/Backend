@@ -1,0 +1,104 @@
+/* Reset some basic elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Main container styling */
+.container {
+  flex: 1;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+/* Styling for the header */
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Styling for paragraphs */
+p {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Styling for the links container */
+.links {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.links a {
+  color: #007BFF;
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 1px solid #007BFF;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.links a:hover {
+  background-color: #007BFF;
+  color: #fff;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  /* Space above the footer */
+}
+
+.social-icon {
+  margin: 0 15px;
+  /* Space between icons */
+  font-size: 24px;
+  /* Size of the icons */
+  color: #007BFF;
+  /* Icon color */
+  text-decoration: none;
+  /* Remove underline */
+  transition: color 0.3s;
+  /* Transition effect */
+}
+
+.social-icon:hover {
+  color: #0056b3;
+  /* Change color on hover */
+}
+
+/* Footer styling */
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #f4f4f4;
+  font-size: 14px;
+  color: #999;
+}
+
+/* Media queries for responsiveness */
+@media (min-width: 600px) {
+  .links {
+    flex-direction: row;
+  }
+
+  .links a {
+    margin: 0 10px;
+  }
+}
