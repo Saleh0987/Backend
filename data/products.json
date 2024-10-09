@@ -7,7 +7,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury sedan with cutting-edge technology and comfort.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize luxury sedan with advanced safety features.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury SUV with a spacious interior and strong performance.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact luxury sedan with a refined interior.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact luxury SUV with a blend of performance and comfort.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 6,
@@ -52,7 +52,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Entry-level luxury car with sporty handling.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 7,
@@ -61,7 +61,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Stylish compact sedan with a sporty profile.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 8,
@@ -70,7 +70,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Iconic luxury SUV with impressive off-road capabilities.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 9,
@@ -79,7 +79,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Full-size luxury SUV with three rows of seating.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 10,
@@ -88,7 +88,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric luxury sedan with cutting-edge tech.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 11,
@@ -97,7 +97,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury convertible with performance and style.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 12,
@@ -106,7 +106,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "High-performance sports car with a powerful engine.",
-            "Company": "Mercedes-Benz"
+            "Category": "Mercedes-Benz"
         },
         {
             "id": 13,
@@ -115,7 +115,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "A reliable midsize sedan known for its fuel efficiency and comfort.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 14,
@@ -124,7 +124,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact car with great fuel economy and advanced safety features.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 15,
@@ -133,7 +133,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Popular compact SUV offering ample cargo space and versatility.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 16,
@@ -142,7 +142,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize SUV with three rows of seating and strong safety ratings.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 17,
@@ -151,7 +151,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "A midsize pickup known for its off-road capability.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 18,
@@ -160,7 +160,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Full-size truck with impressive towing capacity and comfort.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 19,
@@ -169,7 +169,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Rugged SUV with strong off-road capabilities.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 20,
@@ -178,7 +178,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Hybrid minivan with spacious interior and family-friendly features.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 21,
@@ -187,7 +187,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact crossover with distinctive styling and nimble handling.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 22,
@@ -196,7 +196,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Full-size sedan offering luxury features and a smooth ride.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 23,
@@ -205,7 +205,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Hydrogen fuel cell vehicle with zero emissions and advanced technology.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 24,
@@ -214,7 +214,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Iconic hybrid car known for its excellent fuel efficiency.",
-            "Company": "Toyota"
+            "Category": "Toyota"
         },
         {
             "id": 25,
@@ -223,7 +223,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact executive car with dynamic handling and a luxurious interior.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 26,
@@ -232,7 +232,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize luxury sedan that blends performance and comfort.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 27,
@@ -241,7 +241,7 @@
             "Model": "2022",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury SUV with advanced technology and spacious interior.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 28,
@@ -250,7 +250,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Stylish roadster with sharp handling and a powerful engine.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 29,
@@ -259,7 +259,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "High-performance version of the 3 Series with sport-tuned features.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 30,
@@ -268,7 +268,7 @@
             "Model": "2022",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact luxury SUV with a versatile interior and sporty dynamics.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 31,
@@ -277,7 +277,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Full-size luxury sedan with cutting-edge technology and opulence.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 32,
@@ -286,7 +286,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Spacious luxury SUV with three rows and advanced features.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 33,
@@ -295,7 +295,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric luxury sedan with impressive performance.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 34,
@@ -304,7 +304,7 @@
             "Model": "2022",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Electric SUV with cutting-edge technology and spacious interior.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 35,
@@ -313,7 +313,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact luxury coupe with sporty handling and modern design.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 36,
@@ -322,7 +322,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "High-performance sedan with powerful engines and luxury features.",
-            "Company": "BMW"
+            "Category": "BMW"
         },
         {
             "id": 37,
@@ -331,7 +331,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury all-electric sedan with exceptional range and performance.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 38,
@@ -340,7 +340,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Affordable electric sedan with impressive acceleration and range.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 39,
@@ -349,7 +349,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury SUV with falcon-wing doors and spacious seating.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 40,
@@ -358,7 +358,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with great cargo space and advanced technology.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 41,
@@ -367,7 +367,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "High-performance sports car with impressive speed and range.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 42,
@@ -376,7 +376,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Futuristic electric pickup truck with rugged design and utility.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 43,
@@ -385,7 +385,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Ultimate performance version of Model S with incredible acceleration.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 44,
@@ -394,7 +394,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sporty version of Model 3 with enhanced performance features.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 45,
@@ -403,7 +403,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sporty version of Model Y with all-wheel drive and impressive speed.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 46,
@@ -412,7 +412,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Performance variant of Model X with exceptional power and range.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 47,
@@ -421,7 +421,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric semi truck designed for freight transport with low operating costs.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 48,
@@ -430,7 +430,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Long-range version of Model Y with excellent efficiency.",
-            "Company": "Tesla"
+            "Category": "Tesla"
         },
         {
             "id": 49,
@@ -439,7 +439,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact luxury sedan with sporty handling and advanced tech.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 50,
@@ -448,7 +448,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize luxury sedan known for its performance and comfort.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 51,
@@ -457,7 +457,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury sedan offering a blend of performance and technology.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 52,
@@ -466,7 +466,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact luxury SUV with a comfortable ride and high-tech features.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 53,
@@ -475,7 +475,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Versatile midsize SUV with a spacious interior and smooth handling.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 54,
@@ -484,7 +484,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Three-row luxury SUV with advanced tech and premium materials.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 55,
@@ -493,7 +493,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Flagship luxury sedan with high-end features and comfort.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 56,
@@ -502,7 +502,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric SUV with impressive performance and technology.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 57,
@@ -511,7 +511,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "High-performance sports car with a striking design and power.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 58,
@@ -520,7 +520,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury SUV with bold styling and advanced technology.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 59,
@@ -529,7 +529,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Stylish coupe with a blend of performance and elegance.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 60,
@@ -538,7 +538,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact all-electric SUV with modern features and style.",
-            "Company": "Audi"
+            "Category": "Audi"
         },
         {
             "id": 61,
@@ -547,7 +547,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Iconic sports car known for its performance and handling.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 62,
@@ -556,7 +556,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury SUV combining sportiness with practicality.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 63,
@@ -565,7 +565,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact luxury SUV with agile handling and sporty design.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 64,
@@ -574,7 +574,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric sports sedan with impressive acceleration.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 65,
@@ -583,7 +583,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Mid-engine coupe with exceptional handling and performance.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 66,
@@ -592,7 +592,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Stylish convertible with responsive handling and luxury features.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 67,
@@ -601,7 +601,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury sedan with a blend of performance and comfort.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 68,
@@ -610,7 +610,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sporty SUV with a sloping roofline and powerful performance.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 69,
@@ -619,7 +619,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "High-performance version of the iconic 911 with enhanced features.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 70,
@@ -628,7 +628,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sporty all-electric sedan with impressive range and acceleration.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 71,
@@ -637,7 +637,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Track-focused sports car with incredible handling and performance.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 72,
@@ -646,7 +646,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Entry-level version of the 911 with exceptional performance.",
-            "Company": "Porsche"
+            "Category": "Porsche"
         },
         {
             "id": 73,
@@ -655,7 +655,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Best-selling full-size pickup truck known for its capability.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 74,
@@ -664,7 +664,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Iconic American muscle car with powerful performance.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 75,
@@ -673,7 +673,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize SUV with three rows of seating and advanced technology.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 76,
@@ -682,7 +682,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with versatile cargo space and fuel efficiency.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 77,
@@ -691,7 +691,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Rugged SUV designed for off-road adventures.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 78,
@@ -700,7 +700,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize pickup truck offering strong performance and versatility.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 79,
@@ -709,7 +709,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Stylish midsize SUV with ample passenger space and tech features.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 80,
@@ -718,7 +718,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric SUV with sporty performance and range.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 81,
@@ -727,7 +727,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Heavy-duty trucks designed for tough jobs and towing.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 82,
@@ -736,7 +736,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact car known for its fun-to-drive nature and efficiency.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 83,
@@ -745,7 +745,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sporty SUV with pickup capabilities.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
         {
             "id": 84,
@@ -754,7 +754,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Versatile van for commercial and personal use.",
-            "Company": "Ford"
+            "Category": "Ford"
         },
          {
             "id": 85,
@@ -763,7 +763,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize sedan known for its reliability and spacious interior.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 86,
@@ -772,7 +772,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact car with sporty handling and advanced safety features.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 87,
@@ -781,7 +781,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with ample cargo space and comfort.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 88,
@@ -790,7 +790,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Versatile subcompact SUV with flexible seating options.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 89,
@@ -799,7 +799,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Family-friendly minivan with a spacious interior and advanced tech.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 90,
@@ -808,7 +808,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize SUV with three rows of seating and strong safety ratings.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 91,
@@ -817,7 +817,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Unique midsize pickup with a smooth ride and innovative features.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 92,
@@ -826,7 +826,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Subcompact car with excellent fuel efficiency and cargo space.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 93,
@@ -835,7 +835,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Hybrid sedan with a focus on efficiency and technology.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 94,
@@ -844,7 +844,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize SUV designed for adventure with rugged capabilities.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 95,
@@ -853,7 +853,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sporty version of the Civic with enhanced performance.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
         {
             "id": 96,
@@ -862,7 +862,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Hybrid variant of the Accord with excellent fuel efficiency.",
-            "Company": "Honda"
+            "Category": "Honda"
         },
          {
             "id": 97,
@@ -871,7 +871,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Stylish midsize sedan with advanced safety features and tech.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 98,
@@ -880,7 +880,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact sedan known for its fuel efficiency and reliability.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 99,
@@ -889,7 +889,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with modern design and versatile cargo space.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 100,
@@ -898,7 +898,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize SUV with spacious interior and robust features.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 101,
@@ -907,7 +907,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Three-row SUV offering luxury and advanced technology.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 102,
@@ -916,7 +916,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Subcompact SUV with a sporty design and tech features.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 103,
@@ -925,7 +925,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Affordable subcompact SUV with a feature-rich interior.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 104,
@@ -934,7 +934,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric crossover with impressive range and tech.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 105,
@@ -943,7 +943,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact car with great fuel economy and value.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 106,
@@ -952,7 +952,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Hybrid version of the Sonata with excellent fuel efficiency.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 107,
@@ -961,7 +961,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Unique sporty hatchback with a distinctive three-door design.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 108,
@@ -970,7 +970,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sport adventure vehicle combining SUV comfort with truck utility.",
-            "Company": "Hyundai"
+            "Category": "Hyundai"
         },
         {
             "id": 109,
@@ -979,7 +979,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact sedan offering a balance of performance and comfort.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 110,
@@ -988,7 +988,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize sedan known for its spacious interior and safety features.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 111,
@@ -997,7 +997,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Versatile hatchback with sporty performance and practicality.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 112,
@@ -1006,7 +1006,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with a comfortable ride and advanced technology.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 113,
@@ -1015,7 +1015,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Three-row SUV with ample space and family-friendly features.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 114,
@@ -1024,7 +1024,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric SUV with modern design and technology.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 115,
@@ -1033,7 +1033,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Stylish fastback with luxury features and powerful engine options.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 116,
@@ -1042,7 +1042,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Iconic compact car known for its unique design and fun driving experience.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 117,
@@ -1051,7 +1051,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with sporty looks and engaging performance.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 118,
@@ -1060,7 +1060,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxurious midsize SUV with off-road capabilities and high-end features.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 119,
@@ -1069,7 +1069,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Electric version of the Golf, offering efficiency and practicality.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 120,
@@ -1078,7 +1078,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sporty hatchback with sleek design and responsive handling.",
-            "Company": "Volkswagen"
+            "Category": "Volkswagen"
         },
         {
             "id": 121,
@@ -1087,7 +1087,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize sedan with a stylish design and advanced technology.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 122,
@@ -1096,7 +1096,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact sedan known for its fuel efficiency and value.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 123,
@@ -1105,7 +1105,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Full-size sedan offering luxury features and performance.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 124,
@@ -1114,7 +1114,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with spacious interior and versatile cargo space.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 125,
@@ -1123,7 +1123,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize SUV with a comfortable ride and upscale features.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 126,
@@ -1132,7 +1132,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Three-row SUV designed for family adventures and comfort.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 127,
@@ -1141,7 +1141,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact crossover with a distinctive design and sporty performance.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 128,
@@ -1150,7 +1150,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Full-size pickup truck with robust towing capabilities.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 129,
@@ -1159,7 +1159,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize pickup with off-road capabilities and modern features.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 130,
@@ -1168,7 +1168,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric hatchback with impressive range and eco-friendly design.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 131,
@@ -1177,7 +1177,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sports car with a powerful engine and agile handling.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
         {
             "id": 132,
@@ -1186,7 +1186,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Full-size SUV offering luxury features and off-road capability.",
-            "Company": "Nissan"
+            "Category": "Nissan"
         },
          {
             "id": 133,
@@ -1195,7 +1195,7 @@
             "Model": "2024",
             "Picture": "https://shorturl.at/uVZA1",
             "Details": "Versatile wagon with all-wheel drive and rugged capability.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 134,
@@ -1204,7 +1204,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with spacious interior and advanced safety features.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 135,
@@ -1213,7 +1213,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Three-row SUV designed for families with ample space.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 136,
@@ -1222,7 +1222,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with off-road capabilities and efficient fuel economy.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 137,
@@ -1231,7 +1231,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize sedan known for its safety and all-wheel-drive capability.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 138,
@@ -1240,7 +1240,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sporty compact car with turbocharged performance and rally heritage.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 139,
@@ -1249,7 +1249,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Lightweight sports coupe with exceptional handling and fun to drive.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 140,
@@ -1258,7 +1258,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Full-size SUV with comfortable seating and advanced safety features.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 141,
@@ -1267,7 +1267,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Unique compact pickup truck with car-like handling.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 142,
@@ -1276,7 +1276,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric SUV offering AWD and modern tech.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 143,
@@ -1285,7 +1285,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Unique coupe with distinct styling and a focus on performance.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 144,
@@ -1294,7 +1294,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "High-performance version of the WRX with enhanced power and handling.",
-            "Company": "Subaru"
+            "Category": "Subaru"
         },
         {
             "id": 145,
@@ -1303,7 +1303,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury SUV with exceptional off-road capability and opulent interior.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 146,
@@ -1312,7 +1312,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Spacious SUV designed for families with advanced technology.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 147,
@@ -1321,7 +1321,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Rugged SUV built for off-road adventures with modern features.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 148,
@@ -1330,7 +1330,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Sporty SUV with powerful performance and luxurious amenities.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 149,
@@ -1339,7 +1339,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Stylish SUV with a sleek design and advanced technology.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 150,
@@ -1348,7 +1348,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV with versatility and modern safety features.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 151,
@@ -1357,7 +1357,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact SUV known for its off-road capability and comfort.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 152,
@@ -1366,7 +1366,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury compact SUV with a dynamic design and efficient performance.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 153,
@@ -1375,7 +1375,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Classic off-road vehicle with timeless design and capability.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 154,
@@ -1384,7 +1384,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Ultra-luxury SUV with bespoke options and unparalleled comfort.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 155,
@@ -1393,7 +1393,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Short-wheelbase version of the Defender, perfect for city and off-road.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
         {
             "id": 156,
@@ -1402,7 +1402,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Longer version of the Defender with extra passenger space.",
-            "Company": "Land Rover"
+            "Category": "Land Rover"
         },
          {
             "id": 157,
@@ -1411,7 +1411,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Luxury sports car with stunning design and exhilarating performance.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 158,
@@ -1420,7 +1420,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Midsize luxury sedan combining performance and elegance.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 159,
@@ -1429,7 +1429,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact executive car with dynamic handling and style.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 160,
@@ -1438,7 +1438,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric SUV combining performance with sustainable technology.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 161,
@@ -1447,7 +1447,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Performance SUV that balances luxury and practicality.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 162,
@@ -1456,7 +1456,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Iconic grand tourer with powerful engines and a luxurious interior.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 163,
@@ -1465,7 +1465,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact luxury SUV with sporty dynamics and modern technology.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 164,
@@ -1474,7 +1474,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Full-size luxury sedan known for its elegance and performance.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 165,
@@ -1483,7 +1483,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "High-performance version of the XK with enhanced styling and power.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 166,
@@ -1492,7 +1492,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Limited production supercar showcasing cutting-edge technology.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 167,
@@ -1501,7 +1501,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Classic British saloon known for its style and performance.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 168,
@@ -1510,7 +1510,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "High-performance variant of the F-PACE, combining luxury with speed.",
-            "Company": "Jaguar"
+            "Category": "Jaguar"
         },
         {
             "id": 169,
@@ -1519,7 +1519,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Stylish city car known for its compact size and fuel efficiency.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 170,
@@ -1528,7 +1528,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Versatile hatchback with a spacious interior and practical features.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 171,
@@ -1537,7 +1537,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Classic roadster with modern performance and Italian flair.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 172,
@@ -1546,7 +1546,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact car offering practicality and a comfortable ride.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 173,
@@ -1555,7 +1555,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact crossover combining iconic design with modern features.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 174,
@@ -1564,7 +1564,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Practical van with plenty of space for passengers and cargo.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 175,
@@ -1573,7 +1573,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Compact commercial vehicle ideal for urban deliveries.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 176,
@@ -1582,7 +1582,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Spacious version of the 500, offering family-friendly features.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 177,
@@ -1591,7 +1591,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Hatchback with stylish design and efficient engines.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 178,
@@ -1600,7 +1600,7 @@
             "Model": "2023",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Small hatchback known for its practicality and fun driving experience.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 179,
@@ -1609,7 +1609,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "All-electric version of the iconic Fiat 500, offering zero emissions.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         },
         {
             "id": 180,
@@ -1618,7 +1618,7 @@
             "Model": "2024",
             "Picture": "https://via.placeholder.com/150",
             "Details": "Medium-sized van with flexible cargo space and comfort.",
-            "Company": "Fiat"
+            "Category": "Fiat"
         }
     ]
 }
