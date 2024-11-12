@@ -17,7 +17,7 @@
 # How to Run
 Clone the repository.
 - Install dependencies: npm install
-- Start the server: npm start
+- Start the server: npm run dev
 
 # Future Updates
 - Stay tuned for more updates.
