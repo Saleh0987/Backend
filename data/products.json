@@ -2,7 +2,7 @@
     "products": [
         {
             "id": 1,
-            "Name": "Mercedes-Benz S-Class",
+            "Name": "S-Class",
             "Price": "112,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/yuzhwpah",
@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "Name": "Mercedes-Benz E-Class",
+            "Name": "E-Class",
             "Price": "57,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/yrllum9j",
@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "Name": "Mercedes-Benz GLE",
+            "Name": "GLE",
             "Price": "67,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/ymtdkw9o",
@@ -29,7 +29,7 @@
         },
         {
             "id": 4,
-            "Name": "Mercedes-Benz C-Class",
+            "Name": "C-Class",
             "Price": "44,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/yq4gqsop",
@@ -38,7 +38,7 @@
         },
         {
             "id": 5,
-            "Name": "Mercedes-Benz GLC",
+            "Name": "GLC",
             "Price": "53,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/yosqjyg3",
@@ -47,7 +47,7 @@
         },
         {
             "id": 6,
-            "Name": "Mercedes-Benz A-Class",
+            "Name": "A-Class",
             "Price": "35,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/ypx3uo3w",
@@ -56,7 +56,7 @@
         },
         {
             "id": 7,
-            "Name": "Mercedes-Benz CLA",
+            "Name": "CLA",
             "Price": "40,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/ymbvernl",
@@ -65,7 +65,7 @@
         },
         {
             "id": 8,
-            "Name": "Mercedes-Benz G-Class",
+            "Name": "G-Class",
             "Price": "140,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/yq943qpo",
@@ -74,7 +74,7 @@
         },
         {
             "id": 9,
-            "Name": "Mercedes-Benz GLS",
+            "Name": "GLS",
             "Price": "85,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/yl77vzhg",
@@ -83,7 +83,7 @@
         },
         {
             "id": 10,
-            "Name": "Mercedes-Benz EQS",
+            "Name": "EQS",
             "Price": "102,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/yrhnquh9",
@@ -92,7 +92,7 @@
         },
         {
             "id": 11,
-            "Name": "Mercedes-Benz SL",
+            "Name": "SL",
             "Price": "122,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/yput2ucl",
@@ -101,7 +101,7 @@
         },
         {
             "id": 12,
-            "Name": "Mercedes-Benz AMG GT",
+            "Name": "AMG GT",
             "Price": "142,000",
             "Model": "2024",
             "Picture": "https://tinyurl.com/yujnsmut",
